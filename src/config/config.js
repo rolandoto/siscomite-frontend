@@ -1,5 +1,5 @@
 export const config = {
-       serverRoute: "https://siscomited-mern-sena.herokuapp.com/"
+       serverRoute: "https://backend-sena-production.up.railway.app/"
     // serverRoute: "http://localhost:4000/"
     //serverRoute: "http://localhost:4500/"
 }
